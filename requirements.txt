@@ -1,0 +1,14 @@
+numpy
+matplotlib
+opencv-python
+Pillow
+tqdm
+h5py
+
+torch
+torchvision
+
+kornia==0.8.2
+
+# Image augmentation (optional but useful)
+imgaug
