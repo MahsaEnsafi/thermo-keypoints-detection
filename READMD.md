@@ -1,5 +1,5 @@
 
-# Feature Detection on Breast Thermograms  
+# Keypoints Detection on Breast Thermograms  
 ### Comparative Evaluation of Classical and Deep Learning Keypoint Detectors
 
 ---
